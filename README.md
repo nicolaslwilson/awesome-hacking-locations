@@ -1770,7 +1770,7 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 
 ## Minnesota <a id="minnesota"></a>
 
-### Minneapolis, MN <a id="minneapolis-mn"></a>
+### Minneapolis, MN <a id="minneapolis-mn-"></a>
 
 #### Peace Coffee
 
