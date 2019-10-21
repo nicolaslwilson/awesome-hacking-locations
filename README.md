@@ -98,7 +98,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
-  - [Minnesota <a id="minnesota"></a>](#minnesota)
+  - [Minnesota <a id="minnesota"></a>](#minnesota-)
     - [Minneapolis, MN <a id="minneapolis-mn"></a>](#minneapolis-mn-)
   - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
     - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
